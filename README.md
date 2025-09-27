@@ -210,8 +210,7 @@ See the LICENSE
 Contact
 
 Author: Jyoti Kumari
-📧 Email: your-email@example.com
+📧 Email: jyoti.kumari.098013@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/jyoti-kumari-35729125b/
 
-🔗 LinkedIn: Your Profile Link
 
-🔗 GitHub: Your GitHub Link
